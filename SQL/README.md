@@ -13,17 +13,18 @@ Data Analysis
 ### Data Modeling
 
 ![data_modeling](https://github.com/ofunkey/SQL/blob/master/SQL/employee_ERD_data_modeling.JPG)
-Inspected the CSVs and sketched out an ERD of the tables using a tool like [http://www.quickdatabasediagrams.com](http://www.quickdatabasediagrams.com).
+
+* Inspect the CSVs and sketch out an ERD of the tables using a tool at [http://www.quickdatabasediagrams.com](http://www.quickdatabasediagrams.com).
 
 ### Data Engineering
 
-* Use the information you have to create a table schema for each of the six CSV files. Remember to specify data types, primary keys, foreign keys, and other constraints.
+* Use the information to create a table schema for each of the six CSV files. 
 
 * Import each CSV file into the corresponding SQL table.
 
 ### Data Analysis
 
-Once you have a complete database, do the following:
+Tasks:
 
 1. List the following details of each employee: employee number, last name, first name, gender, and salary.
 
@@ -40,6 +41,7 @@ Once you have a complete database, do the following:
 7. List all employees in the Sales and Development departments, including their employee number, last name, first name, and department name.
 
 8. In descending order, list the frequency count of employee last names, i.e., how many employees share each last name.
+
 
 ## Bonus (Optional)
 

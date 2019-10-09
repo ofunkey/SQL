@@ -46,4 +46,4 @@ Inspect the CSVs and sketch out an ERD of the tables and using a tool at [http:/
 
 #### Conclusion
 A technical report that outline the data engineering steps taken
-![SQL/employee_db.sql]
+![SQL/employee_db.sql](https://github.com/ofunkey/SQL/blob/master/SQL/employee_db.sql)

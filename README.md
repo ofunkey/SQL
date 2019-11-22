@@ -30,19 +30,46 @@ Inspect the CSVs and sketch out an ERD of the tables and using a tool at [http:/
 
 1. List the details of each employee: employee number, last name, first name, gender, and salary.
 
+![data_analysis1](SQL/images/data_analysis1.PNG)
+
+
 2. List employees who were hired in 1986.
+
+![data_analysis2](SQL/images/data_analysis2.PNG)
+
 
 3. List the manager of each department with the following information: department number, department name, the manager's employee number, last name, first name, and start and end employment dates.
 
+
+![data_analysis3](SQL/images/data_analysis3.PNG)
+
+
 4. List the department of each employee with the following information: employee number, last name, first name, and department name.
+
+![data_analysis4](SQL/images/data_analysis4.PNG)
+
 
 5. List all employees whose first name is "Hercules" and last names begin with "B."
 
+![data_analysis5](SQL/images/data_analysis5.PNG)
+
+
 6. List all employees in the Sales department, including their employee number, last name, first name, and department name.
+
+![data_analysis6](SQL/images/data_analysis6.PNG)
+
 
 7. List all employees in the Sales and Development departments, including their employee number, last name, first name, and department name.
 
+![data_analysis7](SQL/images/data_analysis7.PNG)
+
+
 8. In descending order, list the frequency count of employee last names, i.e., how many employees share each last name.
+
+![data_analysis8](SQL/images/data_analysis8.PNG)
+
+
+
 
 #### Conclusion
 A technical report that outline the data engineering steps taken
